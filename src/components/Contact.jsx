@@ -9,7 +9,7 @@ function Contact() {
         <p>Hit me up! Don't be shy!👇</p>
         <div className="info-container">
           <div className="location">
-            <img src="src/assets/location.png" alt="location" />
+            <img src="/assets/location.png" alt="location" />
             <div className="info">
               <span className="word">Location</span>
               <a href={locationUrl} target="_blank" rel="noopener noreferrer">
@@ -18,7 +18,7 @@ function Contact() {
             </div>
           </div>
           <div className="location">
-            <img src="src/assets/email.svg" alt="email" />
+            <img src="/assets/email.svg" alt="email" />
             <div className="info">
               <span className="word">Email</span>
               <a href="mailto:mwk221221@gmail.com">mwk221221@gmail.com</a>

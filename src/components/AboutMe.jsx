@@ -3,17 +3,9 @@ function AboutMe() {
     <section className="about-section" id="about">
       <div className="about-container">
         <div className="about-img">
-          <img
-            src="/src/assets/people.png"
-            alt="emoji"
-            className="work-emoji"
-          />
-          <img src="/src/assets/macbook.jpeg" alt="mac" className="macbook" />
-          <img
-            src="/src/assets/frontend.svg"
-            alt="frontend"
-            className="frontend"
-          />
+          <img src="/assets/people.png" alt="emoji" className="work-emoji" />
+          <img src="/assets/macbook.jpeg" alt="mac" className="macbook" />
+          <img src="/assets/frontend.svg" alt="frontend" className="frontend" />
         </div>
         <div className="about-content">
           <h2>About Me </h2>

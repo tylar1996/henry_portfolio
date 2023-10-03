@@ -12,14 +12,14 @@ function Hero() {
             <div className="logo-container">
               <a href="https://www.linkedin.com/in/hm0429/">
                 <img
-                  src="/src/assets/linkedin.png"
+                  src="/assets/linkedin.png"
                   alt="linkedin icon"
                   className="linkLogo"
                 />
               </a>
               <a href="https://github.com/tylar1996">
                 <img
-                  src="/src/assets/github.png"
+                  src="/assets/github.png"
                   alt="github icon"
                   className="gitLogo"
                 />
@@ -27,10 +27,10 @@ function Hero() {
             </div>
             <div className="tech-stack">
               <p>Tech Stack </p>
-              <img src="/src/assets/html.svg" />
-              <img src="/src/assets/js.svg" />
-              <img src="/src/assets/react.svg" />
-              <img src="/src/assets/tailwind.svg" />
+              <img src="/assets/html.svg" />
+              <img src="/assets/js.svg" />
+              <img src="/assets/react.svg" />
+              <img src="/assets/tailwind.svg" />
             </div>
           </div>
           <div className="icon">icon</div>
